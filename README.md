@@ -1,4 +1,4 @@
-## 🔆Momentum(with 바닐라JS)  
+## 🔆 Momentum(with 바닐라JS)  
 Create Chrome App with Vanilla JS  
 ## 🖥️ 참고 강의  
 https://nomadcoders.co/javascript-for-beginners/lobby  
