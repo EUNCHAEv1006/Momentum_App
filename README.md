@@ -4,7 +4,7 @@ Create Chrome App with Vanilla JS
 https://nomadcoders.co/javascript-for-beginners/lobby  
 ## 🕰️ 수강 기간  
 2023.07.28 ~ 2023.08.04  
-## Momentum App 구현 기능  
+## 💪Momentum App 구현 기능  
 Clock
 Username
 Todo List
